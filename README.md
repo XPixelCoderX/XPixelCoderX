@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 [![Discord](https://img.shields.io/discord/1139621390908133396?label=Discord&color=5865F2)](https://discord.gg/jqPt6a563h)
-[![Discord](https://img.shields.io/badge/Founder-Pixel_Craft_Network-5865F2)](https://discord.gg/jqPt6a563h)
+[![Discord](https://img.shields.io/badge/Founder-Pixel_Craft_Network-pink)](https://discord.gg/jqPt6a563h)
 
 <!--
 **XPixelCoderX/XPixelCoderX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
